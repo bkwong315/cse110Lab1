@@ -2,4 +2,4 @@
 
 *Brian's* User Page
 
-My favorite programming language is C++.
+My favorite programming language is either javascript or C++.
