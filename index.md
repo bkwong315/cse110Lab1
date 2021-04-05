@@ -30,12 +30,12 @@ I think this quote from Eleanor Roosevelt goes well with the previous quote:
 > If life were predictable it would cease to be life, and be without flavor.
   
 ### Goals for Spring 2021
- [ ] Pass all my classes
- [ ] Improve my ability to work in groups
- [ ] Stay on top of my school work
- [ ] Keep up with friends and family
- [ ] Get more comfortable with debuggers
- [X] Finish this lab
+- [ ] Pass all my classes
+- [ ] Improve my ability to work in groups
+- [ ] Stay on top of my school work
+- [ ] Keep up with friends and family
+- [ ] Get more comfortable with debuggers
+- [X] Finish this lab
 
 ## Helpful Resources
 - [Stack Overflow](https://stackoverflow.com/)
