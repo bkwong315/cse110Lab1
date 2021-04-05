@@ -23,7 +23,7 @@ I am a third year cognitive science major in Revelle College. I am currently try
   
 ### Two Quotes that I Like  
 The first one is from Star Trek. I haven't watched too much of it, but I do like this quote.  
-[Star Trek Quote about Life](imgs/starTrekQuote.jpg)
+![Star Trek Quote about Life](imgs/starTrekQuote.jpg)
   
 I think this quote from Eleanor Roosevelt goes well with the previous quote:  
 > If life were predictable it would cease to be life, and be without flavor.
@@ -43,4 +43,4 @@ I think this quote from Eleanor Roosevelt goes well with the previous quote:
   
 ## Thanks for Reading!  
 Here's a happy cat.  
-[Happy Cat](imgs/happyCat.jpg)
+![Happy Cat](imgs/happyCat.jpg)
