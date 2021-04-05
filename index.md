@@ -5,7 +5,7 @@
 [Programming Languages](#programming-languages-in-order-of-familiarity)  
 [About me](#about-me)  
 [Quotes](#a-quote-that-i-like)  
-[Goals](#goals-for-spring-2021)
+[Goals](#goals-for-spring-2021)  
 [Helpful Resources](#helpful-resources)
   
 ## **As a programmer**  
@@ -25,7 +25,7 @@ I am a third year cognitive science major in Revelle College. I am currently try
 The first one is from Star Trek. I haven't watched too much of it, but I do like this quote.  
 [Star Trek Quote about Life](imgs/starTrekQuote.jpg)
   
-I think this quote from Eleanor Roosevelt goes with the previous quote:  
+I think this quote from Eleanor Roosevelt goes well with the previous quote:  
 > If life were predictable it would cease to be life, and be without flavor.
   
 ### Goals for Spring 2021
