@@ -6,8 +6,8 @@
 [About me](#about-me)  
 [Quotes](#a-quote-that-i-like)  
 [Goals](#goals-for-spring-2021)  
-[Helpful Resources](#helpful-resources)
-[Happy Cat](#thanks-for-reading)
+[Helpful Resources](#helpful-resources)  
+[Happy Cat](#thanks-for-reading)  
   
 ## **As a programmer**  
 When programming, my general approach is to do some basic brainstorming and then try to implement it. Whether that attempt succeeds or fails, I try to improve it with the next iteration. I will note that this may not be the best approach, because sometimes my initial attempt fails so spectacularly that I need to start from scratch. Another possibility is that I create something and realize that the improvements I want to make require quite a bit of refactoring. Despite this, I think there is some benefit to this approach in that my following iterations are made with more considerations than what may have been possible without trying an implementation. In terms of debugging, I use `console.log()`, `printf()`, `cout`, `print()`, or `System.out.print()`. The general idea here is I don't use a debugger too often. I know that I should get more comfortable with using a debugger, but outside of C++, C, or Java, I never use it. Being comfortable using a debugger has always been on my todo list and this quarter I plan on working on it.
